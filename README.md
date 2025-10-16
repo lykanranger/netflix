@@ -1,6 +1,6 @@
 # Netflix Clone - A Full-Stack Streaming App
 
-![Netflix Clone Browse Page](./netflixpng) This is a feature-rich clone of the popular streaming service, Netflix. Built with a modern tech stack including React, TypeScript, and Supabase, this project replicates the core user experience, from user authentication to browsing and managing a personal watchlist.
+![Netflix Clone Browse Page](.netflixpng) This is a feature-rich clone of the popular streaming service, Netflix. Built with a modern tech stack including React, TypeScript, and Supabase, this project replicates the core user experience, from user authentication to browsing and managing a personal watchlist.
 
 
 
