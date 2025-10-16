@@ -82,6 +82,6 @@ Make sure you have Node.js and npm installed on your machine.
 
 | Login Page | Profile Selection |
 | :---: | :---: |
-| ![Home Page](./screenshots/login-page.png) | ![Profile Page](./screenshots/profiles-page.png) |
+| ![Home Page](./home.png) | ![Search Results Page](./search.png) |
 
 ---
