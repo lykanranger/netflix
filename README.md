@@ -78,9 +78,7 @@ Make sure you have Node.js and npm installed on your machine.
 
 ## 🖼️ Screenshots
 
-*Create a folder named `screenshots` in your project root and add some nice images of your app!*
-
-| Login Page | Profile Selection |
+| Home Page | Search Results |
 | :---: | :---: |
 | ![Home Page](./home.png) | ![Search Results Page](./search.png) |
 
