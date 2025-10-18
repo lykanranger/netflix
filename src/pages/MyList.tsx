@@ -60,7 +60,7 @@ export default function MyList() {
       <Navbar />
 
       <div className="pt-24 px-4 md:px-12 pb-12">
-        <h1 className="text-white text-3xl md:text-4xl font-bold mb-8">MY FAVOURITE</h1>
+        <h1 className="text-white text-3xl md:text-4xl font-bold mb-8">MY FAVOURITES</h1>
 
         {myList.length === 0 ? (
           <div className="flex flex-col items-center justify-center py-20">
