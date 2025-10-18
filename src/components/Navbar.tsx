@@ -49,21 +49,21 @@ export default function Navbar() {
             NETFLIX
           </button>
 
-          <div className="hidden md:flex items-center gap-6">
-            <button
-              onClick={() => navigate('/browse')}
-              className="text-white hover:text-neutral-300 transition-colors"
-            >
-              Home
-            </button>
-            <button
-              onClick={() => navigate('/my-list')}
-              className="text-white hover:text-neutral-300 transition-colors"
-            >
-              My List
-            </button>
-          </div>
-        </div>
+          <div className="hidden md:flex items-center gap-6">
+            <button
+              onClick={() => navigate('/browse')}
+              className="text-white hover:text-neutral-300 transition-colors"
+            >
+              HOME
+            </button>
+            <button
+              onClick={() => navigate('/my-list')}
+              className="text-white hover:text-neutral-300 transition-colors"
+            >
+              LIBRARY
+            </button>
+          </div>
+        </div>
 
         <div className="flex items-center gap-4">
           {showSearch ? (
