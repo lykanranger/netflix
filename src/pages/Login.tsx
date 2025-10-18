@@ -44,7 +44,7 @@ export default function Login() {
       />
 
       <div className="relative z-10 w-full max-w-md p-8 bg-black bg-opacity-75 rounded-md">
-        <h1 className="text-white text-3xl font-bold mb-8">
+        <h1 className="text-white text-3xl font-bold mb-8 text-center">
           {isSignUp ? 'Sign Up' : 'Sign In'}
         </h1>
 
@@ -87,7 +87,7 @@ export default function Login() {
         </form>
 
         <div className="mt-4 text-neutral-400 text-sm">
-          {isSignUp ? 'Already have an account?' : 'New to Netflix Clone?'}{' '}
+          {isSignUp ? 'Already have an account?' : 'New to Netflix?'}{' '}
           <button
             onClick={() => setIsSignUp(!isSignUp)}
             className="text-white hover:underline"
